@@ -58,17 +58,6 @@ password VARCHAR(100)
 
 INSERT INTO admin VALUES ('admin', 'Singh@2704');
 
-text
-
-## Installation
-
-1. Clone the repository
-2. Download MySQL Connector/J and place in WebContent/WEB-INF/lib/
-3. Update database password in servlet files
-4. Import project into Eclipse
-5. Configure Tomcat server
-6. Run the application
-
 ## Access
 
 http://localhost:8080/HospitalSystem/dashboard.jsp
@@ -76,3 +65,11 @@ http://localhost:8080/HospitalSystem/dashboard.jsp
 ## Author
 
 Shivansh Singh
+
+<img width="1916" height="873" alt="Screenshot 2025-11-09 205558" src="https://github.com/user-attachments/assets/8c5051b1-9e86-4a49-870a-28e716f08f63" />
+<img width="1910" height="873" alt="Screenshot 2025-11-09 205619" src="https://github.com/user-attachments/assets/7cf3e850-1ed8-4bc3-86d2-792eb4610534" />
+<img width="1871" height="839" alt="Screenshot 2025-11-09 205656" src="https://github.com/user-attachments/assets/7c1a758c-e7ed-4a37-90a0-e6260a332558" />
+<img width="1917" height="795" alt="Screenshot 2025-11-09 205916" src="https://github.com/user-attachments/assets/31194cae-61e5-4e12-885b-85782b45b436" />
+<img width="1910" height="710" alt="Screenshot 2025-11-09 205930" src="https://github.com/user-attachments/assets/541c4075-1250-4d5b-a4fd-4357d0d40d48" />
+<img width="1913" height="740" alt="Screenshot 2025-11-09 205953" src="https://github.com/user-attachments/assets/75d194da-db06-4f5a-ab5e-474bc1903abc" />
+<img width="1912" height="709" alt="Screenshot 2025-11-09 210006" src="https://github.com/user-attachments/assets/140e6315-e00e-4043-87cb-efb402fab27d" />
